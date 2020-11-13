@@ -1,0 +1,1 @@
+from fan.fan_speed import *
